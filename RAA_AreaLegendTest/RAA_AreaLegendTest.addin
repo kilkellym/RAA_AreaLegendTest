@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_AreaLegendTest - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>RAA_AreaLegendTest\RAA_AreaLegendTest.dll</Assembly>
+    <FullClassName>RAA_AreaLegendTest.Command1</FullClassName>
+    <ClientId>4671f42a-6bc6-4d92-90f3-037a571f707c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_AreaLegendTest - Command 2</Text>
+    <Description>Some description</Description>
+    <Assembly>RAA_AreaLegendTest\RAA_AreaLegendTest.dll</Assembly>
+    <FullClassName>RAA_AreaLegendTest.Command2</FullClassName>
+    <ClientId>205b1112-733c-4839-86c0-86f31e396408</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_AreaLegendTest</Name>
+    <Assembly>RAA_AreaLegendTest\RAA_AreaLegendTest.dll</Assembly>
+    <FullClassName>RAA_AreaLegendTest.App</FullClassName>
+    <ClientId>7679b1d1-dcf3-4ea1-9dff-5041cab5c3fc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
